@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Vue, C#, Java, .NET, & Relational Databases**
 
-- 📫 How to reach me **swammeeboy@gmail.cim**
+- 📫 How to reach me **swammeeboy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
